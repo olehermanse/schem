@@ -61,10 +61,10 @@
 <path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M73.701,102.045c0,3.132-2.54,5.671-5.673,5.671
 	c-3.127,0-5.666-2.539-5.666-5.671c0-3.13,2.539-5.668,5.666-5.668C71.161,96.377,73.701,98.915,73.701,102.045z"/>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="55.275" y1="339.778" x2="46.771" y2="339.778"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="61.653" y1="332.976" x2="40.394" y2="332.976"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="51.023" y1="306.143" x2="51.023" y2="326.172"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="34.016" y1="326.172" x2="68.031" y2="326.172"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="55.275" y1="340.157" x2="46.771" y2="340.157"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="61.653" y1="334.487" x2="40.394" y2="334.487"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="51.023" y1="306.143" x2="51.023" y2="328.818"/>
+	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="34.016" y1="328.818" x2="68.031" y2="328.818"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M55.275,339.778"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M68.031,326.172"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M34.016,326.172"/>
