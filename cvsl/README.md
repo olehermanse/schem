@@ -1,4 +1,4 @@
-# CMOS Circuits
+# CVSL Circuits
 
 ## Inverter
 <a href="https://github.com/olehermanse/schem/blob/master/cvsl/cvsl_inv.svg">
