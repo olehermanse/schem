@@ -19,6 +19,9 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 * [CVSL circuits (ready to use figures)](https://github.com/olehermanse/schem/tree/master/cvsl)
 * [Digital circuits (ready to use figures)](https://github.com/olehermanse/schem/tree/master/digital)
 
+## Suggestions
+If you have suggestions for changes, new symbols or circuits, leave an [Issue](https://github.com/olehermanse/schem/issues).
+
 ## Preview
 Below are previews for some of the symbols and circuits. Click the images to go to the folder containing different versions of the file (.ai, .pdf, .png, .svg)
 ### sheets/electrical
