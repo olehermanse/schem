@@ -20,10 +20,23 @@ This work is licensed under a <a rel="license" href="http://creativecommons.org/
 * [Digital circuits (ready to use figures)](https://github.com/olehermanse/schem/tree/master/digital)
 
 ## Preview
-<a href="https://raw.githubusercontent.com/olehermanse/schem/master/sheets/electrical.png">
-<img alt="electrical.png" style="border-width:0" src="https://raw.githubusercontent.com/olehermanse/schem/master/sheets/electrical.png" />
-</a><br />.
+Below are previews for some of the symbols and circuits. Click the images to go to the folder containing different versions of the file (.ai, .pdf, .png, .svg)
+### sheets/electrical
+<a href="https://github.com/olehermanse/schem/tree/master/sheets">
+<img alt="sheets/electrical.ai" style="border-width:0" src="sheets/electrical.png" />
+</a>
 
-<a href="https://raw.githubusercontent.com/olehermanse/schem/master/sheets/logic.png">
-<img alt="logic.png" style="border-width:0" src="https://raw.githubusercontent.com/olehermanse/schem/master/sheets/logic.png" />
-</a><br />.
+### sheets/logic
+<a href="https://github.com/olehermanse/schem/tree/master/sheets">
+<img alt="sheets/logic.ai" style="border-width:0" src="sheets/logic.png" />
+</a>
+
+### cmos/cmos_nand
+<a href="https://github.com/olehermanse/schem/tree/master/cmos">
+<img alt="cmos/cmos_nand.png" style="border-width:0" src="cmos/cmos_nand.png" />
+</a><br />
+
+### cvsl/cvsl_nand
+<a href="https://github.com/olehermanse/schem/tree/master/cvsl">
+<img alt="cvsl/cvsl_nand.png" style="border-width:0" src="cvsl/cvsl_nand.png" />
+</a><br />
