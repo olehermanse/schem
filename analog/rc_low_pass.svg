@@ -59,14 +59,9 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="238.109" y1="164.409" x2="238.109" y2="136.063"/>
 </g>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="204.093" y1="68.032" x2="272.125" y2="68.032"/>
-<g>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="102.047" y1="68.031" x2="68.031" y2="68.031"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="170.079" y1="68.031" x2="204.094" y2="68.031"/>
-	
-		<rect x="102.047" y="51.023" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="68.031" height="34.016"/>
-</g>
-<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="238.109" y1="68.031" x2="238.109" y2="102.047"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="34.016" y1="68.032" x2="68.031" y2="68.032"/>
-<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="238.109" y1="102.047" x2="238.109" y2="136.063"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="238.109" y1="204.094" x2="238.109" y2="238.109"/>
+<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="204.095,68.031 170.079,68.031 
+	164.41,85.039 153.071,51.023 141.732,85.039 130.395,51.023 119.056,85.039 107.717,51.023 102.049,68.031 68.031,68.031 "/>
+<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="238.109" y1="68.031" x2="238.109" y2="136.063"/>
 </svg>
