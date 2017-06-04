@@ -12,14 +12,14 @@
 		c0,3.131,2.539,5.67,5.665,5.67c3.134,0,5.673-2.539,5.673-5.67C754.015,371.042,751.476,368.504,748.342,368.504L748.342,368.504z
 		"/>
 </g>
-<text transform="matrix(1 0 0 1 612.582 527.2432)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="12">Ole Herman Schumacher Elgesem (CC BY 4.0) </tspan><tspan x="0" y="14.399" font-family="'ArialMT'" font-size="12">github.com/olehermanse/schem</tspan><tspan x="0" y="28.8" font-family="'ArialMT'" font-size="12">Licensed under CC Attribution 4.0 International:</tspan><tspan x="0" y="43.2" font-family="'ArialMT'" font-size="12">creativecommons.org/licenses/by/4.0/</tspan></text>
+<text transform="matrix(1 0 0 1 612.582 527.2432)"><tspan x="0" y="0" font-family="'Arial'" font-size="12">Ole Herman Schumacher Elgesem (CC BY 4.0) </tspan><tspan x="0" y="14.399" font-family="'Arial'" font-size="12">github.com/olehermanse/schem</tspan><tspan x="0" y="28.8" font-family="'Arial'" font-size="12">Licensed under CC Attribution 4.0 International:</tspan><tspan x="0" y="43.2" font-family="'Arial'" font-size="12">creativecommons.org/licenses/by/4.0/</tspan></text>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="646.298" y1="374.173" x2="646.298" y2="408.188"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="612.282" y1="374.173" x2="612.282" y2="442.205"/>
 <path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M754.015,408.188c0,3.133-2.541,5.672-5.674,5.672
 	c-3.127,0-5.666-2.539-5.666-5.672c0-3.13,2.539-5.668,5.666-5.668C751.474,402.52,754.015,405.058,754.015,408.188z"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="646.299" y1="442.204" x2="680.314" y2="442.204"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="612.282" y1="476.22" x2="680.314" y2="476.22"/>
-<text transform="matrix(1 0 0 1 725.668 459.2119)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="14">Grid size:         12mm</tspan><tspan x="0" y="11.3" font-family="'ArialMT'" font-size="14">Subdivisions:           6</tspan><tspan x="0" y="22.601" font-family="'ArialMT'" font-size="14">Keyboard Inc:    6mm</tspan></text>
+<text transform="matrix(1 0 0 1 725.668 459.2119)"><tspan x="0" y="0" font-family="'Arial'" font-size="14">Grid size:         12mm</tspan><tspan x="0" y="11.3" font-family="'Arial'" font-size="14">Subdivisions:           6</tspan><tspan x="0" y="22.601" font-family="'Arial'" font-size="14">Keyboard Inc:    6mm</tspan></text>
 <g>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="816.376" y1="34.016" x2="816.376" y2="170.078"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="816.376" y1="34.016" x2="680.313" y2="102.048"/>

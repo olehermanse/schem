@@ -11,7 +11,7 @@
 		C31.346,202.622,32.542,201.425,34.011,201.425 M34.011,198.425c-3.125,0-5.665,2.538-5.665,5.669c0,3.131,2.54,5.67,5.665,5.67
 		c3.134,0,5.674-2.539,5.674-5.67C39.685,200.962,37.145,198.425,34.011,198.425L34.011,198.425z"/>
 </g>
-<text transform="matrix(1 0 0 1 266.457 368.5039)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="12">Ole Herman Schumacher Elgesem (CC BY 4.0) </tspan><tspan x="0" y="14.399" font-family="'ArialMT'" font-size="12">github.com/olehermanse/schem</tspan><tspan x="0" y="28.799" font-family="'ArialMT'" font-size="12">Licensed under CC Attribution 4.0 International:</tspan><tspan x="0" y="43.199" font-family="'ArialMT'" font-size="12">creativecommons.org/licenses/by/4.0/</tspan></text>
+<text transform="matrix(1 0 0 1 266.457 368.5039)"><tspan x="0" y="0" font-family="'Arial'" font-size="12">Ole Herman Schumacher Elgesem (CC BY 4.0) </tspan><tspan x="0" y="14.399" font-family="'Arial'" font-size="12">github.com/olehermanse/schem</tspan><tspan x="0" y="28.799" font-family="'Arial'" font-size="12">Licensed under CC Attribution 4.0 International:</tspan><tspan x="0" y="43.199" font-family="'Arial'" font-size="12">creativecommons.org/licenses/by/4.0/</tspan></text>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="68.031" y1="34.016" x2="68.031" y2="68.031"/>
 <line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="34.015" y1="34.015" x2="34.015" y2="102.047"/>
 <g>
@@ -93,7 +93,7 @@
 	
 		<rect x="578.268" y="187.086" fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" width="68.031" height="34.016"/>
 </g>
-<text transform="matrix(1 0 0 1 96.3779 371.3369)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="14">Grid size:         12mm</tspan><tspan x="0" y="11.3" font-family="'ArialMT'" font-size="14">Subdivisions:           6</tspan><tspan x="0" y="22.601" font-family="'ArialMT'" font-size="14">Keyboard Inc:    2mm</tspan></text>
+<text transform="matrix(1 0 0 1 96.3779 371.3369)"><tspan x="0" y="0" font-family="'Arial'" font-size="14">Grid size:         12mm</tspan><tspan x="0" y="11.3" font-family="'Arial'" font-size="14">Subdivisions:           6</tspan><tspan x="0" y="22.601" font-family="'Arial'" font-size="14">Keyboard Inc:    2mm</tspan></text>
 <circle fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="94.96" cy="204.094" r="7.086"/>
 <g>
 	
