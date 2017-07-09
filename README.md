@@ -13,6 +13,11 @@ If you use this, remember to give credit to:
 <br />
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+**Please note:**
+Some of the circuits depicted in this project are patented.
+The license only applies to the graphical representation (images/figures), not the technology itself.
+See [LICENSE.md](./LICENSE.md) for more information.
+
 ## Table of contents
 * [Sheets of symbols](https://github.com/olehermanse/schem/tree/master/sheets)
 * [CMOS circuits (ready to use figures)](https://github.com/olehermanse/schem/tree/master/cmos)

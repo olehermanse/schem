@@ -16,3 +16,9 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 **(1)**: If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. CC licenses prior to Version 4.0 also require you to provide the title of the material if supplied, and may have other slight differences.
 
 See https://creativecommons.org/licenses/by/4.0/ for full details.
+
+**Please note:**
+This license only applies to the graphical representation of the circuits.
+The technology itself (the actual circuits and implementations) are licensed separately.
+Some circuits / technologies are patented.
+For example, if you want to use ULVDR technology in a (commercial) electronics project, please contact the patent owner for that technology.
