@@ -132,7 +132,7 @@
 	<circle fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="68.031" cy="408.188" r="17.008"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="68.031" y1="425.196" x2="68.031" y2="442.204"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="68.031" y1="391.181" x2="68.031" y2="374.173"/>
-	<text transform="matrix(1 0 0 1 61.6523 415.1494)" font-family="'Arial'" font-size="21">A</text>
+	<text transform="matrix(1 0 0 1 61.2773 415.1494)" font-family="'Arial'" font-size="21">A</text>
 </g>
 <g>
 	<circle fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" cx="136.063" cy="408.188" r="17.008"/>
@@ -140,7 +140,7 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="136.063" y1="425.196" x2="136.063" y2="442.204"/>
 
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="136.063" y1="391.181" x2="136.063" y2="374.173"/>
-	<text transform="matrix(1 0 0 1 130.2666 415.1494)" font-family="'Arial'" font-size="21">V</text>
+	<text transform="matrix(1 0 0 1 129.2041 415.1494)" font-family="'Arial'" font-size="21">V</text>
 </g>
 <g>
 
