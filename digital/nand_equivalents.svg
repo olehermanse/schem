@@ -29,8 +29,6 @@
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="115.325" y1="578.27" x2="68.032" y2="578.27"/>
 </g>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="476.219" x2="442.205" y2="544.25"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="544.25" x2="442.205" y2="612.281"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M544.252,476.219
 		c37.572,0,68.031,30.459,68.031,68.031c0,37.573-30.459,68.032-68.031,68.032"/>
 	
@@ -39,10 +37,10 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="544.252" y1="612.281" x2="476.221" y2="612.281"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M612.283,544.248c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C619.896,527.241,612.283,534.856,612.283,544.248z"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="476.219" x2="442.205" y2="476.219"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="612.281" x2="442.205" y2="612.281"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,476.219 442.205,476.219 
+		442.205,544.25 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,612.281 442.205,612.281 
+		442.205,544.25 	"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M646.299,544.248c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C653.912,527.241,646.299,534.856,646.299,544.248z"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="714.33" y1="544.25" x2="680.314" y2="544.25"/>
@@ -56,9 +54,6 @@
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C415.803,561.257,408.189,568.872,408.189,578.264z"/>
 </g>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="68.031" x2="442.205" y2="136.062"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="136.062" x2="442.205" y2="204.093"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="102.046" x2="408.189" y2="102.046"/>
 	
@@ -70,9 +65,10 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="544.252" y1="204.093" x2="476.221" y2="204.093"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M612.283,136.06c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C619.896,119.053,612.283,126.668,612.283,136.06z"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="68.031" x2="442.205" y2="68.031"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="204.093" x2="442.205" y2="204.093"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,68.031 442.205,68.031 
+		442.205,136.062 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,204.093 442.205,204.093 
+		442.205,136.062 	"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M646.299,136.06c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C653.912,119.053,646.299,126.668,646.299,136.06z"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="714.33" y1="136.062" x2="680.314" y2="136.062"/>
@@ -82,10 +78,6 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="408.189" y1="170.078" x2="374.174" y2="170.078"/>
 </g>
 <g>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="272.125" x2="442.205" y2="340.156"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="442.205" y1="340.156" x2="442.205" y2="408.187"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="408.189" y1="306.14" x2="374.174" y2="306.14"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="408.189" y1="374.171" x2="374.174" y2="374.171"/>
@@ -97,10 +89,10 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="544.252" y1="408.187" x2="476.221" y2="408.187"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M612.283,340.154c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C619.896,323.147,612.283,330.762,612.283,340.154z"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="272.125" x2="442.205" y2="272.125"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="476.221" y1="408.187" x2="442.205" y2="408.187"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,272.125 442.205,272.125 
+		442.205,340.156 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="476.221,408.187 442.205,408.187 
+		442.205,340.156 	"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M408.189,306.138c0,9.395,7.613,17.01,17.008,17.01
 		c9.39,0,17.008-7.615,17.008-17.01c0-9.392-7.618-17.007-17.008-17.007C415.803,289.131,408.189,296.747,408.189,306.138z"/>
 	
@@ -110,9 +102,6 @@
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="714.33" y1="340.156" x2="680.314" y2="340.156"/>
 </g>
 <g>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="102.047" y1="68.031" x2="102.047" y2="136.063"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="102.047" y1="136.063" x2="102.047" y2="204.094"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="102.047" y1="102.047" x2="68.031" y2="102.047"/>
 	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="102.047" y1="170.078" x2="68.031" y2="170.078"/>
 	<path fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" d="M204.094,68.031
@@ -122,9 +111,10 @@
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="204.094" y1="204.094" x2="136.063" y2="204.094"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="306.141" y1="136.063" x2="272.125" y2="136.063"/>
-	<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="136.063" y1="68.031" x2="102.047" y2="68.031"/>
-	
-		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="136.063" y1="204.094" x2="102.047" y2="204.094"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="136.063,68.031 102.047,68.031 
+		102.047,136.063 	"/>
+	<polyline fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" points="136.063,204.094 102.047,204.094 
+		102.047,136.063 	"/>
 	
 		<line fill="none" stroke="#000000" stroke-width="3" stroke-miterlimit="10" x1="340.156" y1="136.063" x2="306.141" y2="136.063"/>
 </g>
